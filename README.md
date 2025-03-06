@@ -3,9 +3,9 @@ The Inventory Management System is a C++ console-based application designed to m
 
 ### Key Features:
 * Goods Management – Add, update, search, display, and delete goods.
-*  Supplier Management – Add, update, search, display, and delete supplier records.
-*   ssignment System – Assign goods to suppliers and track their relationships.
-*   Prevent duplicate entries and ensure accurate record management.
-*   Uer-friendly Menu – Interactive console menus for seamless navigation.
+* Supplier Management – Add, update, search, display, and delete supplier records.
+* Asignment System – Assign goods to suppliers and track their relationships.
+* Prevent duplicate entries and ensure accurate record management.
+* Uer-friendly Menu – Interactive console menus for seamless navigation.
 
 This system is ideal for supermarkets, warehouses, and supply chain businesses looking for a lightweight inventory management solution. 
